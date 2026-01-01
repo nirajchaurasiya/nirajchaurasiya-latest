@@ -1005,3 +1005,8 @@ footer .logo {
     padding: 24px;
   }
 }
+
+.email{
+  word-break: break-all;
+  line-break: anywhere;
+}
